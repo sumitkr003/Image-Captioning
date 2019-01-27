@@ -1,0 +1,15 @@
+Flicker8k_Dataset/
+Flickr8k_text/
+model_0.h5
+model_1.h5
+model_2.h5
+model_3.h5
+model_4.h5
+model_5.h5
+model_6.h5
+model_7.h5
+model_8.h5
+model_9.h5
+descriptions.txt
+features.pkl
+tokenizer.pkl
