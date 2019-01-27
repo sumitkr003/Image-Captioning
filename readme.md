@@ -47,6 +47,7 @@ I have also created a plot to visualize the structure of the network that better
 
 ## Output
 ![](example.jpg)
+
 **Predicted Caption** : "startseq black dog is swimming in water endseq"
 
 ## Dependencies
